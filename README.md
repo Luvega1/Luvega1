@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luvega1
-- 👀 I’m interested in frontend Development 
+- 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, react, VUE, Typescript
 - 💞️ I’m looking to collaborate on Wed develpoment
 - 📫 How to reach me @vluanthony@gmail.com
