@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Luvega1
-- 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, react, VUE, Typescript
-- 💞️ I’m looking to collaborate on Wed develpoment
+- 👀 an eager learner diving headfirst into the fascinating world of cybersecurity.
+- While I may be at the beginning of my cybersecurity odyssey,
+- I'm fueled by curiosity, determination, and an insatiable appetite for learning.
+- I'm actively pursuing certifications like google cybersecurity certification and Comptia security+ to solidify my foundation and pave the way for a rewarding career in cyber defense-
 - 📫 How to reach me @vluanthony@gmail.com
 
 <!---
