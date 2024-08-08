@@ -45,8 +45,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://www.coursera.org/account/accomplishments/specialization/FMU59QERNEWB" />
-
+<img src="[
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fgoogle-cloud%2Fbadge%2Fgoogle-cloud-cybersecurity-certificate&psig=AOvVaw0QJblRfNFkXoswCN6H1Y-n&ust=1723216458888000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj-0NnX5YcDFQAAAAAdAAAAABAE) />
 </div>
 
 ## Projects
