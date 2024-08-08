@@ -50,6 +50,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/Luvega1/Prodigy_InfoTech_projects">
+- <a href="https://github.com/Luvega1/Prodigy_InfoTech_projects"></a>
 - Detection Lab
 - SOC Automation Project
